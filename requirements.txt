@@ -1,0 +1,5 @@
+flask
+pyzbar
+Pillow
+SpeechRecognition
+gunicorn
